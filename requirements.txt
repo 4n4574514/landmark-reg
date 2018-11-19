@@ -6,7 +6,7 @@ Flask-RESTful==0.3.6
 itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
-numpy==1.13.0
+numpy==1.13.0 %numpy==1.15.0 fix 19.11.18
 python-dateutil==2.6.1
 pytz==2017.2
 six==1.11.0
